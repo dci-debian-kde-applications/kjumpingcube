@@ -12,6 +12,18 @@ Files: doc/*
 Copyright: 1999, Matthias Kiefer <matthias.kiefer@gmx.de>
 License: GFDL-1.2+
 
+Files: ai_base.h
+       ai_main.cpp
+       ai_main.h
+Copyright: 2012, Ian Wadham <iandw.au@gmail.com>
+License: GPL-2+
+
+Files: ai_kepler.h
+       ai_newton.h
+Copyright: 1998-2000, Matthias Kiefer <matthias.kiefer@gmx.de>
+           2012, Ian Wadham <iandw.au@gmail.com>
+License: GPL-2+
+
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 License: GPL-2+
