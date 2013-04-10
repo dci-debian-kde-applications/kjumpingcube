@@ -1,0 +1,6 @@
+kjumpingcube (4:4.10.2-1) UNRELEASED; urgency=low
+
+  * First release of kdegames after being split by upstream.
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 10 Apr 2013 09:47:38 +0200
+
