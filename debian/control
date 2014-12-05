@@ -24,7 +24,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kjumpingcube.git
 Package: kjumpingcube
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: simple tactical game
  KJumpingcube is a simple tactical game for one or two players, played on a
  grid of numbered squares.  Each turn, players compete for control of the board
