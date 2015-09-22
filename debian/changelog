@@ -1,8 +1,8 @@
-kjumpingcube (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
+kjumpingcube (4:15.08.1-0ubuntu1) wily; urgency=medium
 
   * New upstream release (15.08.1)
 
- -- Clive Johnston <clivejo@aol.com>  Wed, 16 Sep 2015 23:47:22 +0100
+ -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:05:00 +0100
 
 kjumpingcube (4:15.08.0-0ubuntu1) wily; urgency=medium
 
