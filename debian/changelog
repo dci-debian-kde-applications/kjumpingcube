@@ -1,9 +1,9 @@
-kjumpingcube (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+kjumpingcube (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   * Debian merge: No remaining changes.
   * New upstream release. 
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 05 Feb 2016 15:01:33 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:49:07 +0100
 
 kjumpingcube (4:15.12.0-1) experimental; urgency=medium
 
