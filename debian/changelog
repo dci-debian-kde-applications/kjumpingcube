@@ -1,3 +1,12 @@
+kjumpingcube (4:16.04.0-1~1.gbpcc67f1) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @cc67f1a22db273ab6f5611a6f99fcbea405904c5 **
+
+  * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 00:56:12 +0200
+
 kjumpingcube (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
