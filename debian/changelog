@@ -1,3 +1,11 @@
+kjumpingcube (4:16.08.0-1~1.gbp2f82a6) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @2f82a663f417f6f401ebc5bf6c8e89bef4e9ee0c **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 00:56:12 +0200
+
 kjumpingcube (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
