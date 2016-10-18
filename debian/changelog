@@ -1,10 +1,12 @@
-kjumpingcube (4:16.08.0-1~1.gbp2f82a6) UNRELEASED; urgency=medium
+kjumpingcube (4:16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @2f82a663f417f6f401ebc5bf6c8e89bef4e9ee0c **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 00:56:12 +0200
+  [ Maximiliano Curia ]
+  * New upstream release (16.08.0)
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:09:25 +0200
 
 kjumpingcube (4:16.04.0-1) unstable; urgency=medium
 
