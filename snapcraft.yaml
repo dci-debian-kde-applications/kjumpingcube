@@ -3,12 +3,9 @@ name: kjumpingcube
 version: 17.08.1
 summary: simple tactical game
 description: |-
- killbots is a simple game of evading killer robots. The robots are numerous
- and their sole objective is to destroy you.  Fortunately for you, their
- creator has focused on quantity rather than quality and as a result
- the robots are severely lacking in intelligence. Your superior wit and
- a fancy teleportation device are your only weapons against the never-ending
- stream of mindless automatons.
+ KJumpingcube is a simple tactical game for one or two players, played on a
+ grid of numbered squares.  Each turn, players compete for control of the board
+ by capturing or adding to one square.
 confinement: strict
 grade: stable
 apps:
